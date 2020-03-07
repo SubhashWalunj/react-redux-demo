@@ -2,7 +2,7 @@
   "name": "redux--01-start",
   "version": "0.1.0",
   "private": true,
-  "author": "Subhash Walunj",
+  "author": "Subhash Walunj<walunjsubhash@gmail.com>",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.1",
